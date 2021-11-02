@@ -1,8 +1,8 @@
 👋 뉴비 개발자입니다.
 
-👀 일단 개발은 JAVA로 시작했는데 솔직히 Node.JS하고싶어요
+현재 공부중인 과목 - NODE.js
 
-🌱 그래서 Node.JS에 express를 섞어서 혼자 연습하고있습니다.
+restapi, express, react, vue 공부중입니다.
 
 
 
